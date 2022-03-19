@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @SirRGB
 - 👀 I’m interested in Android stuff
-- 🌱 I’m currently learning a lot
+- 🌱 I’m currently buildbotting
 
-<!---
-SirRGB/SirRGB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![SirRGB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SirRGB&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/SirRGB)
