@@ -3,8 +3,8 @@
 -
 
 - Hello World!
-- I’m currently trying to bringup my own ROM and port newer versions of Android to griffin and cedric
-- I am also providing forks of Arrow OS and AICP with the newest security patches and plan to do the same for RR and AOSiP
+- I am providing forks of [ArrowOS](https://github.com/ArrowOS-Revived), [AICP](https://github.com/AICP-Revived), [LineageOS](https://github.com/LineageOS-Revived), [ResurrectionRemix](https://github.com/ResurrectionRemix-Revived), [crDroid](https://github.com/crDroid-Revived), [ProjectSakura](https://github.com/Sakura-Revived), [cabonROM](https://github.com/carbonROM-Experimental) and [XenonHD](https://github.com/XenonHD-Revived) with the newest security patches
+
 
 [![My GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SirRGB&show_icons=true&theme=github_dark&hide_border=true)](https://github.com/SirRGB)
 [![My used languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SirRGB&langs_count=14&theme=github_dark&hide_border=true&layout=compact)](https://github.com/SirRGB)
